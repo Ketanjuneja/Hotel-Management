@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         87
+                                      PRICE:
+
+                                        CUST_ID:         0
+
+                                    ITEM_NAME:             CHICKEN 65
+
+                                  ITEM_ID:                   5
+
+
+                                                             2
+                                      QUANTITY:
+
+
+
+                                                         285
+                                      PRICE:
+
+                                        CUST_ID:         27
+
+                                    ITEM_NAME:             MANCHURIAN RICE
+
+                                  ITEM_ID:                   7
+
+
+                                                             3
+                                      QUANTITY:
+
+
+
+                                                         749
+                                      PRICE:
+
+                                        CUST_ID:         22
+
+                                    ITEM_NAME:             cadb
+
+                                  ITEM_ID:                   45
+
+
+                                                             3
+                                      QUANTITY:
+
+
+
+                                                         4739
+                                      PRICE:
+
+                                        CUST_ID:         23
+
+                                    ITEM_NAME:             choclate
+
+                                  ITEM_ID:                   35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             4
+                                      QUANTITY:
+
+
+
+                                                         160
+                                      PRICE:
+
+                                        CUST_ID:         28
+
+                                    ITEM_NAME:             CHICKEN 65
+
+                                  ITEM_ID:                   5
+
+
+                                                             2
+                                      QUANTITY:
+
+
+
+                                                         80
+                                      PRICE:
+
+                                        CUST_ID:         25
+
+                                    ITEM_NAME:             CHICKEN 65
+
+                                  ITEM_ID:                   5
+
+
+                                                             1
+                                      QUANTITY:
+
+
+
+                                                         95
+                                      PRICE:
+
+                                        CUST_ID:         25
+
+                                    ITEM_NAME:             CHICKEN MOMOS
+
+                                  ITEM_ID:                   6
+
+
+                                                             1
+                                      QUANTITY:
+
+
+
+                                                         12
+                                      PRICE:
+
+                                        CUST_ID:         1
+
+                                    ITEM_NAME:             sddsd
+
+                                  ITEM_ID:                   1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            1
+                                     QUANTITY:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
